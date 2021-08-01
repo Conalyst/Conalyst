@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Victoria
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Cybersecurity Awareness
+- 📫 You can reach me at victoriagtorp@gmail.com
