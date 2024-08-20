@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Victoria
-- 👀 I’m interested in Cybersecurity
